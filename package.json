@@ -1,0 +1,14 @@
+{
+	"name": "qr_component",
+	"version": "1.0.0",
+	"description": "Simple QR Component Project",
+	"main": "index.js",
+	"scripts": {
+		"compile:sass": "node-sass sass/main.scss css/main.css"
+	},
+	"author": "Matt",
+	"license": "ISC",
+	"devDependencies": {
+		"node-sass": "^7.0.1"
+	}
+}
